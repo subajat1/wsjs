@@ -1,0 +1,27 @@
+{
+  "name": "wsjs",
+  "version": "1.0.0",
+  "description": "web socket javascript",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subajat1/wsjs.git"
+  },
+  "keywords": [
+    "wsjs"
+  ],
+  "author": "subajat1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subajat1/wsjs/issues"
+  },
+  "homepage": "https://github.com/subajat1/wsjs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4"
+  }
+}
